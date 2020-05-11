@@ -20,4 +20,4 @@ module.exports = {
     companyCity: "[Company City]"
 }
 ```
-2. Execute `npm run start` command (root path of the project) and open url [http://localhost:3000](http://localhost:3000) in your favorite browser.
+2. Execute `npm run start` command (root path of the project) and open [http://localhost:3000](http://localhost:3000) in your favorite browser.
